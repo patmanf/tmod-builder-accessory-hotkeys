@@ -1,4 +1,5 @@
 displayName = Builder Accessory Hotkeys
 author = patman
-version = 1.0
+version = 1.0.1
 includeSource = true
+side = Client
