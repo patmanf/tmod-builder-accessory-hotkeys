@@ -1,0 +1,36 @@
+Keybinds: {
+	ToggleRuler.DisplayName: "[i:486] Toggle Ruler"
+	ToggleMechanicalRuler.DisplayName: "[i:2799] Toggle Mechanical Ruler"
+	TogglePresserator.DisplayName: "[i:3624] Toggle Presserator"
+	TogglePaintSprayer.DisplayName: "[i:2216] Toggle Paint Sprayer"
+	ToggleBlockSwap.DisplayName: "[i:5126] Toggle Block Swap"
+	ToggleBiomeTorchSwap.DisplayName: "[i:5043] Toggle Biome Torch Swap"
+	ToggleForcedWireDisplay.DisplayName: "[i:3619] Toggle Forced Wire Display"
+	CycleRedWireMode.DisplayName: "[i:509] Cycle Red Wire Mode"
+	CycleBlueWireMode.DisplayName: "[i:850] Cycle Blue Wire Mode"
+	CycleGreenWireMode.DisplayName: "[i:851] Cycle Green Wire Mode"
+	CycleYellowWireMode.DisplayName: "[i:3612] Cycle Yellow Wire Mode"
+	CycleActuatorMode.DisplayName: "[i:849] Cycle Actuator Mode"
+	CycleAllWireModes.DisplayName: "[i:3625] Cycle All Wire Modes"
+}
+
+Configs: {
+	BuilderAccHotkeysConfig: {
+		DisplayName: The setting. [i:3061]
+
+		KeybindsEnabled: {
+			Label: Enable Keybinds
+			Tooltip: ""
+		}
+
+		ShowChatMessages: {
+			Label: Send Chat Messages
+			Tooltip: ""
+		}
+
+		PlaySounds: {
+			Label: Play Sounds
+			Tooltip: ""
+		}
+	}
+}

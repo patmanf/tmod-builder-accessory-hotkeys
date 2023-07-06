@@ -1,0 +1,4 @@
+displayName = Builder Accessory Hotkeys
+author = patman
+version = 1.0
+includeSource = true
